@@ -39,7 +39,7 @@ python gradio_ui.py
 ```
 *or*
 
-### 3. create launch the bat file 
+### 3. launch the bat file 
 
 
 The app will open in your browser at `http://localhost:7860`.
@@ -100,4 +100,4 @@ MIT License
 
 ---
 
-**Enjoy secure note
+**Enjoy secure note making**

@@ -38,7 +38,8 @@ cd frontend
 python gradio_ui.py
 ```
 *or*
-## simply create a shortcut for 
+
+### 3. create launch the bat file 
 
 
 The app will open in your browser at `http://localhost:7860`.
